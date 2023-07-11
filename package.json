@@ -1,0 +1,9 @@
+{
+  "name": "js-collection",
+  "version": "0.0.1",
+  "description": "Collections to store arrays, objects",
+  "main": "collection.js",
+  "author": "xNaii",
+  "license": "MIT",
+  "dependencies": {}
+}
