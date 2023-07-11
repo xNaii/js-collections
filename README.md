@@ -13,20 +13,20 @@ storageName - default: 'data-collection'
 
 ### Adding
 ```js
-let arr = collection.addArray('secret', [
+let arr = collection.addArray('shared-array', [
   /*data*/
 ]);
 
-let obj = collection.addObject('secret-object', {
+let obj = collection.addObject('shared-object', {
   /*data*/
 });
 ```
 
 ### Retrieving
 ```js
-let arr = collection.getArray('secret');
+let arr = collection.getArray('shared-array');
 
-let obj = collection.getObject('secret-object');
+let obj = collection.getObject('shared-object');
 ```
 
 ### Methods
