@@ -1,5 +1,5 @@
 # JS Collections
-Collections to store arrays, objects
+Javascript Collections to store arrays, objects
 
 ### Usage
 ```js
